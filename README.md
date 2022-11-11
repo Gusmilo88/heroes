@@ -1,7 +1,7 @@
 # Héroes
 
 ## Integrantes:
-## Gabriela Meza 29 Mataderos
+## Gabriela Meza
 ## Cristian Amarilla
 ## Maximiliano Cuella
 ## Gustavo Romero
